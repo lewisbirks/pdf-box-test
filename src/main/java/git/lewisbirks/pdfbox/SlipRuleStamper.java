@@ -1,4 +1,4 @@
-package git.lewisbirks.testing;
+package git.lewisbirks.pdfbox;
 
 import java.awt.Color;
 import java.io.File;
@@ -82,4 +82,3 @@ public class SlipRuleStamper {
     content.close();
   }
 }
-

@@ -9,7 +9,7 @@ version '1.0-SNAPSHOT'
 sourceCompatibility = 11
 
 application {
-    mainClassName = group + ".testing.SlipRuleStamper"
+    mainClassName = group + ".pdfbox.SlipRuleStamper"
 }
 
 repositories {
