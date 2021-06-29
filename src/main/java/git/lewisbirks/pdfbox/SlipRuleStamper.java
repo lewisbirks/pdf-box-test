@@ -19,7 +19,7 @@ import org.apache.pdfbox.util.Matrix;
 
 public class SlipRuleStamper {
 
-  private static final String FILE_NAME = "c32_care_order.pdf";
+  private static final String FILE_NAME = "dummy.pdf";
   private static final float FONT_SIZE = 12f;
   private static final String FONT_LOCATION = "fonts/Arial.ttf";
   private static final DateTimeFormatter FORMATTER = DateTimeFormatter.ofPattern("dd/MM/yyyy");
