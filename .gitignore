@@ -85,3 +85,18 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+
+# should probs not be all of these
+/.idea/artifacts/testing_main_jar.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/codeStyles/Project.xml
+/.idea/modules/testing.iml
+/.idea/modules/testing.main.iml
+/.idea/modules/testing.test.iml
+/.idea/.gitignore
+/.idea/checkstyle-idea.xml
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/libraries-with-intellij-classes.xml
+/.idea/misc.xml
+/.idea/vcs.xml
